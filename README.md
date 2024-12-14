@@ -1,7 +1,6 @@
 # Immunization Tracker System 🏥
    *Vaccine Management System*
-   
-   ---
+
 ## I. Project Overview
 
 The Vaccine Management System (VMS) is a Java-based console application designed to streamline the management of vaccination records for healthcare providers. It helps efficiently organize patient information and ensures accurate tracking of vaccination schedules for different patient categories: children, teens, and adults. It ensures efficient record-keeping and provides critical features like tracking vaccination schedules, administering vaccines, and monitoring vaccination completion statuses.
@@ -120,8 +119,6 @@ The project aligns with **Sustainable Development Goal 3 (Good Health and Well-b
      ```
 
    - Follow the on-screen instructions to manage patient and vaccination records.
-
----
 
 ---
 
