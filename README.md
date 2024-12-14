@@ -9,6 +9,16 @@ The project demonstrates the core principles of Object-Oriented Programming (OOP
 
 ---
 
+Objectives 🎯
+
+The **Immunization Tracker System** aims to:
+
+1. **Manage Patient Records**: Organize patient information by category (Children, Teens, Adults) and enable easy access and editing.
+2. **Track Vaccination Schedules**: Monitor vaccine administration and calculate the next vaccination date automatically.
+3. **Maintain Vaccination History**: Provide detailed records of each patient's vaccination status and history.
+4. **Enhance Healthcare Efficiency**: Automate record-keeping to reduce manual workload and minimize errors.
+5. **Support SDG 3**: Ensure timely vaccinations to improve public health and reduce preventable diseases.
+
 ## Key Features 🚀
 
 #### 1. **Patient Management**  ⚕️
