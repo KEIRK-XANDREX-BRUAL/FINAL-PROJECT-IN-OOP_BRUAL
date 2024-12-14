@@ -60,32 +60,29 @@ The project aligns with **Sustainable Development Goal 3 (Good Health and Well-b
 
 ## IV. Instructions for Running the Program ⚙️
 
-### 1. Prerequisites
+#### 1. Prerequisites
    - Install **Java Development Kit (JDK 8 or later)** from the [official Java website](https://www.oracle.com/java/technologies/javase-downloads.html).
    - Install **Visual Studio Code** or any Java-compatible IDE for running and debugging the project.
 
-### 2. Download and Extract the Project
+#### 2. Download and Extract the Project
    - Download the ZIP file containing the project from the repository.
    - Extract the ZIP file to a folder on your computer.
 
-### 3. Open the Project
+#### 3. Open the Project
    - Open the extracted folder in Visual Studio Code or your chosen IDE.
 
-### 4. Compile the Code
+#### 4. Compile the Code
    - Open the terminal in the project directory and compile all Java files using:
      ```bash
      javac Main.java
      ```
-
-### 5. Run the Program
+#### 5. Run the Program
    - Execute the program using:
      ```bash
      java Main
      ```
 
    - Follow the on-screen instructions to manage patient and vaccination records.
-
 ---
 
----
 
