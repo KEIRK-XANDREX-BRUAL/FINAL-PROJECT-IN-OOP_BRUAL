@@ -47,47 +47,15 @@ The project demonstrates the core principles of Object-Oriented Programming (OOP
 
 ### 1. **Encapsulation**
    - **Implementation**: Patient and vaccine data are stored as private fields, accessible only through public getter and setter methods. This ensures data integrity and protects sensitive information.
-   - **Example**: 
-     ```java
-     protected String firstName;
-     public String getFirstName() {
-         return firstName;
-     }
-     public void setFirstName(String firstName) {
-         this.firstName = firstName;
-     }
-     ```
 
 ### 2. **Inheritance**
    - **Implementation**: A `PatientDetails` base class defines common properties (e.g., ID, name, age, contact). Specific patient types (`ChildPatient`, `TeenPatient`, `AdultPatient`) extend this base class and add unique attributes like parent name, school name, or occupation.
-   - **Example**: 
-     ```java
-     public class TeenPatient extends PatientDetails {
-         private String schoolName;
-         // Additional functionality specific to teens
-     }
-     ```
 
 ### 3. **Polymorphism**
    - **Implementation**: The system uses method overriding to customize behavior based on patient types. For instance, `displayPatientInfo()` provides tailored output for each category.
-   - **Example**:
-     ```java
-     public void displayPatientInfo() {
-         System.out.println("Name: " + firstName + " " + lastName);
-         if (this instanceof ChildPatient) {
-             System.out.println("Parent Name: " + ((ChildPatient) this).getParentName());
-         }
-     }
-     ```
-
+   
 ### 4. **Abstraction**
    - **Implementation**: Abstract classes and interfaces are used to hide implementation details while exposing essential functionalities. For example, the `PatientDetails` class abstracts common behaviors across patient types.
-   - **Example**:
-     ```java
-     public abstract class PatientDetails {
-         public abstract void displayPatientInfo();
-     }
-     ```
 
 ---
 
