@@ -4,7 +4,7 @@
    ---
 ## I. Project Overview
 
-The Vaccine Management System (VMS) is a Java-based console application designed to manage vaccination records for different patient categories: children, teens, and adults. It ensures efficient record-keeping and provides critical features like tracking vaccination schedules, administering vaccines, and monitoring vaccination completion statuses.
+The Vaccine Management System (VMS) is a Java-based console application designed to streamline the management of vaccination records for healthcare providers. It helps efficiently organize patient information and ensures accurate tracking of vaccination schedules for different patient categories: children, teens, and adults. It ensures efficient record-keeping and provides critical features like tracking vaccination schedules, administering vaccines, and monitoring vaccination completion statuses.
 
 The project demonstrates the core principles of Object-Oriented Programming (OOP), including **encapsulation**, **inheritance**, **polymorphism**, and **abstraction**, in a practical, real-world context. By addressing healthcare needs, the project aligns with **SDG 3: Good Health and Well-being**, emphasizing the importance of timely and complete vaccinations for better health outcomes.
 
@@ -37,13 +37,8 @@ The project demonstrates the core principles of Object-Oriented Programming (OOP
      - Clear prompts and structured design for a seamless user experience.
    - Robust error handling to ensure smooth operation and informative feedback for invalid inputs.
 
-#### 5. **Efficient and Scalable Design**
-   - Built using Object-Oriented Programming principles to ensure:
-     - Code reusability and scalability for future enhancements.
-     - Organized and modular functionality for easy maintenance.
-   - Abstracted vaccine and patient data management for clear separation of concerns.
 
-## II. Explanation of How OOP Principles Were Applied 📋
+## II. How OOP Principles Were Applied 📋
 
 ### 1. **Encapsulation**
    - **Implementation**: Patient and vaccine data are stored as private fields, accessible only through public getter and setter methods. This ensures data integrity and protects sensitive information.
