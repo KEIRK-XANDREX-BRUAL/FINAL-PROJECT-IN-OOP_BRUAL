@@ -9,7 +9,7 @@ The project demonstrates the core principles of Object-Oriented Programming (OOP
 
 ---
 
-Objectives 🎯
+### Objectives 🎯
 
 The **Immunization Tracker System** aims to:
 
@@ -52,7 +52,7 @@ The **Immunization Tracker System** aims to:
      - Organized and modular functionality for easy maintenance.
    - Abstracted vaccine and patient data management for clear separation of concerns.
 
-## II. Explanation of How OOP Principles Were Applied 📋
+## II. How OOP Principles Were Applied 📋
 
 ### 1. **Encapsulation**
    - **Implementation**: Patient and vaccine data are stored as private fields, accessible only through public getter and setter methods. This ensures data integrity and protects sensitive information.
