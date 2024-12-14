@@ -6,6 +6,7 @@
 The Vaccine Management System (VMS) is a Java-based console application designed to streamline the management of vaccination records for healthcare providers. It helps efficiently organize patient information and ensures accurate tracking of vaccination schedules for different patient categories: children, teens, and adults. It ensures efficient record-keeping and provides critical features like tracking vaccination schedules, administering vaccines, and monitoring vaccination completion statuses.
 
 The project demonstrates the core principles of Object-Oriented Programming (OOP), including **encapsulation**, **inheritance**, **polymorphism**, and **abstraction**, in a practical, real-world context. By addressing healthcare needs, the project aligns with SDG 3: Good Health and Well-being, emphasizing the importance of timely and complete vaccinations for better health outcomes.
+
 ---
 
 ## Key Features 🚀
